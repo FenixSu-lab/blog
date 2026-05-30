@@ -126,9 +126,9 @@ avatar:
   rounded: true
 
 social:
-  GitHub: https://gitee.com/addroc || fab fa-github
-  E-Mail: mailto:addroc_sue@163.com || fa fa-envelope
-  CSDN: https://blog.csdn.net/addroc_sue || fa fa-rss
+  # GitHub: https://gitee.com/Fenix || fab fa-github
+  # E-Mail: mailto:Fenix_sue@163.com || fa fa-envelope
+  # CSDN: https://blog.csdn.net/Fenix_sue || fa fa-rss
 
 
 social_icons:
@@ -200,7 +200,7 @@ back2top:
 
 github_banner:
   enable: true
-  permalink: https://gitee.com/addroc
+  permalink: https://gitee.com/Fenix
   title: Fork NexT on GitHub
 
 font:

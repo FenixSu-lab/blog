@@ -163,9 +163,9 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 # social:
-#   GitHub: https://gitee.com/addroc || fab fa-github
-#   E-Mail: mailto:addroc_sue@163.com || fa fa-envelope
-#   CSDN: https://blog.csdn.net/addroc_sue || fab fa-csdn
+#   GitHub: https://gitee.com/Fenix || fab fa-github
+#   E-Mail: mailto:Fenix_sue@163.com || fa fa-envelope
+#   CSDN: https://blog.csdn.net/Fenix_sue || fab fa-csdn
 #   #Twitter: https://twitter.com/yourname || fab fa-twitter
 #   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
 #   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
@@ -173,9 +173,9 @@ site_state: true
 #   #Instagram: https://instagram.com/yourname || fab fa-instagram
 #   #Skype: skype:yourname?call|chat || fab fa-skype
 social:
-  GitHub: https://gitee.com/addroc || fab fa-github
-  E-Mail: mailto:addroc_sue@163.com || fa fa-envelope
-  CSDN: https://blog.csdn.net/addroc_sue || fab fa-csdn
+  GitHub: https://gitee.com/Fenix || fab fa-github
+  E-Mail: mailto:Fenix_sue@163.com || fa fa-envelope
+  CSDN: https://blog.csdn.net/Fenix_sue || fab fa-csdn
 
 
 social_icons:

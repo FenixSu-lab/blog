@@ -22,7 +22,7 @@ fi
 echo "📤 上传文件到服务器..."
 SERVER_USER="your-username"
 SERVER_HOST="your-server-ip"
-SERVER_PATH="/var/www/addroc-blog"
+SERVER_PATH="/var/www/Fenix-blog"
 
 # 使用rsync同步文件
 rsync -avz --delete public/ $SERVER_USER@$SERVER_HOST:$SERVER_PATH/

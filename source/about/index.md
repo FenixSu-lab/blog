@@ -5,11 +5,11 @@ type: "about"
 comments: false
 ---
 
-# 欢迎来到 Addroc's Blog
+# 欢迎来到 Fenix's Blog
 
 ## 关于我
 
-我是Addroc，专注于工业物联网、大数据和人工智能领域的技术研究与实践。
+我是Fenix，专注于工业物联网、大数据和人工智能领域的技术研究与实践。
 
 ## 博客内容
 
@@ -30,9 +30,9 @@ comments: false
 
 ## 联系方式
 
-- **邮箱**: addroc_su@163.com
-- **CSDN**: https://blog.csdn.net/addroc_sue
-- **GitHub**: https://gitee.com/addroc
+- **邮箱**: Fenix_su@163.com
+- **CSDN**: https://blog.csdn.net/Fenix_sue
+- **GitHub**: https://gitee.com/Fenix
 
 ---
 
